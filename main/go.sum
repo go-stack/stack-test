@@ -1,0 +1,7 @@
+github.com/go-stack/stack v1.8.0 h1:5SgMzNM5HxrEjV0ww2lTmX6E2Izsfxas4+YHWRs3Lsk=
+github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
+github.com/go-stack/stack-test v0.0.0-20180828025711-f1a81130b35c h1:RjZTc/rJGulQSx70vtoK2aVhcgn9QNSTeckLL1xDaFw=
+github.com/go-stack/stack-test/mod1 v1.0.0 h1:CMsxPEmYPv4ZEkQj9Ux+3qghj6FsI6hFDt3a0amS9FM=
+github.com/go-stack/stack-test/mod1 v1.0.0/go.mod h1:OwRvZN8H2HFeQsUSJBnJ0OOyLFTFPV/qwtFjzvGXP1k=
+github.com/go-stack/stack-test/mod2/v2 v2.0.0 h1:sD/P5UH5qbMJ8voZWGb/ABxFjm3XDhJZYivlhLq3tVI=
+github.com/go-stack/stack-test/mod2/v2 v2.0.0/go.mod h1:DNmputHjVhSKyxC8uyTzS7d3AY8KJgCX7sI6kiM/kzY=
